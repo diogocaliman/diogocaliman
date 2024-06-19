@@ -11,7 +11,6 @@ Em resumo, estou no mercado para adquirir conhecimento e somar com as equipes, a
 
 E estou adquirindo conhecimento incluindo conhecimento em estatísticas, habilidades em programação (como Python, R, SQL), familiaridade com ferramentas de visualização de dados (como Tableau, Power BI), e uma compreensão sólida das infraestruturas de TI e das necessidades de negócios para que eu possa estar presente cada vez mais no mercado de trabalho.
 
-
 ## Tecnologias que Domino e Utilizo:
 
 ### Programações: 
